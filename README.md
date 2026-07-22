@@ -1,10 +1,20 @@
-# 📦 Optimizing Supply Chain and Inventory Performance Using Data Analytics
+# 🥤 Optimizing Supply Chain and Inventory Performance Using Data Analytics: A Coca-Cola Case Study
 
 ## 📖 Project Overview
 
-### Efficient supply chain and inventory management are essential for ensuring smooth business operations, minimizing operational costs, and meeting customer demand. Organizations often face challenges such as delivery delays, inefficient inventory management, and inconsistent logistics performance, all of which can negatively impact profitability and customer satisfaction.
+### Efficient supply chain and inventory management are critical to the success of global beverage companies. Managing inventory levels, ensuring timely deliveries, and maintaining efficient logistics operations directly influence customer satisfaction, operational costs, and overall profitability.
 
-### This project applies data analytics techniques to evaluate supply chain operations using a publicly available supply chain dataset. The analysis focuses on identifying operational bottlenecks, measuring key performance indicators (KPIs), and providing actionable recommendations to improve inventory management, logistics efficiency, and overall supply chain performance.
+### This project demonstrates how data analytics can be used to optimize supply chain and inventory performance by applying analytical techniques to a publicly available supply chain dataset. The project is presented as a **case study of The Coca-Cola Company**, illustrating how similar analyses can support decision-making within a large-scale beverage distribution network.
+
+---
+
+# 🏢 Business Context
+
+### This project is based on **The Coca-Cola Company**, a multinational beverage corporation headquartered in **Atlanta, Georgia, United States**.
+
+### The Coca-Cola Company operates one of the world's largest supply chain networks, distributing beverages to millions of customers through manufacturing plants, warehouses, distributors, and retailers across the globe. In Africa, Coca-Cola products are manufactured and distributed through **Coca-Cola Beverages Africa (CCBA)**, serving several countries, including Kenya.
+
+### As Coca-Cola's operational supply chain data is proprietary and not publicly available, this project utilizes the **DataCo Smart Supply Chain Dataset** to simulate real-world supply chain operations. The analytical methods, dashboards, and recommendations demonstrate how similar data-driven approaches can be applied within Coca-Cola's supply chain environment.
 
 ---
 
@@ -13,10 +23,10 @@
 ## The objectives of this project are to:
 
 ### * Evaluate overall supply chain performance using operational data.
-### * Analyze inventory and product performance to identify high- and low-performing products.
-### * Assess logistics and delivery efficiency using key operational metrics.
-### * Develop interactive dashboards that support data-driven decision-making.
-### * Provide business recommendations for improving supply chain and inventory performance.
+### * Analyze inventory and product performance.
+### * Assess logistics and delivery efficiency.
+### * Develop interactive dashboards to support operational decision-making.
+### * Provide data-driven recommendations for improving supply chain and inventory performance.
 
 ---
 
@@ -24,26 +34,28 @@
 
 ### Main Research Question
 
-###  **How can data analytics be used to optimize supply chain and inventory performance in a distribution company?**
+### **How can data analytics be used to optimize supply chain and inventory performance in a global beverage company such as The Coca-Cola Company?**
 
 ### Specific Research Questions
 
-### 1. How effectively is the company's overall supply chain performing?
+### 1. How effectively is the supply chain performing?
 ### 2. Which products and inventory categories contribute most to business performance?
-### 3. How efficient are the company's logistics and delivery operations?
-### 4. What data-driven recommendations can improve supply chain and inventory performance?
+### 3. How efficient are logistics and delivery operations?
+### 4. What improvements can be recommended to optimize supply chain and inventory performance?
 
 ---
 
 # 👥 Target Audience
 
-## This project is designed for professionals responsible for managing and improving supply chain operations, including:
+## This project is intended for professionals responsible for supply chain operations, including:
 
 ### * Supply Chain Managers
 ### * Inventory Managers
 ### * Logistics Managers
+### * Operations Managers
+### * Business Executives
 
-### The insights and dashboards developed in this project are intended to support operational decision-making by helping these stakeholders monitor performance, identify inefficiencies, and implement data-driven improvements.
+### The dashboards and insights are designed to help these stakeholders monitor operational performance, identify inefficiencies, and make data-driven decisions.
 
 ---
 
@@ -51,17 +63,18 @@
 
 ### **Dataset:** DataCo SMART Supply Chain Dataset (Public Dataset)
 
-#### The dataset contains operational information related to:
+### The dataset contains operational information related to:
 
 ### * Orders
 ### * Customers
 ### * Products
-###* Categories
 ### * Sales
 ### * Profit
 ### * Shipping
 ### * Delivery Status
 ### * Geographic Locations
+
+### > **Disclaimer:** The dataset used in this project is publicly available and is **not an official dataset from The Coca-Cola Company**. It is used to simulate supply chain operations and demonstrate analytical techniques applicable to organizations with similar supply chain structures.
 
 ---
 
@@ -93,29 +106,30 @@
 
 # 📈 Dashboard Overview
 
-### 1. Executive Performance Dashboard
+## 1. Executive Performance Dashboard
 
-#### Provides an overview of business performance using KPIs such as revenue, profit, orders, and delivery performance.
+###  Provides an overview of supply chain performance through key metrics such as revenue, profit, order volume, and delivery performance.
 
-### 2. Inventory & Product Performance Dashboard
+## 2. Inventory & Product Performance Dashboard
 
-#### Analyzes product sales, inventory performance, product categories, and profitability to support inventory management decisions.
+### Evaluates product sales, category performance, inventory movement, and profitability to support inventory management decisions.
 
-### 3. Logistics & Delivery Performance Dashboard
+## 3. Logistics & Delivery Performance Dashboard
 
-#### Evaluates shipping efficiency, delivery times, late deliveries, and regional logistics performance.
+### Analyzes shipping efficiency, delivery times, late deliveries, and regional logistics performance.
 
 ---
 
 # 💡 Expected Business Outcomes
 
-### The analysis aims to help decision-makers:
+## The analysis aims to support business decision-making by:
 
-### * Improve inventory planning.
-### * Reduce delivery delays.
-### * Identify high-performing products.
-### * Enhance logistics efficiency.
-### * Support data-driven operational decisions.
+### * Improving inventory planning and stock management.
+### * Reducing delivery delays.
+### * Identifying high-performing products and categories.
+### * Enhancing logistics efficiency.
+### * Supporting data-driven operational decisions.
+### * Recommending strategies to optimize overall supply chain performance.
 
 ---
 
@@ -126,7 +140,7 @@
 ### Progress Checklist
 
 ### * [x] Project Topic Selection
-### * [x] Business Problem Definition
+###* [x] Business Context Definition
 ### * [x] Research Questions
 ### * [x] Target Audience Identification
 ### * [ ] Data Collection
@@ -139,5 +153,7 @@
 ### * [ ] Presentation
 
 ---
+
+
 
 
