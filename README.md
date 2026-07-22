@@ -112,7 +112,7 @@
 ### The analysis aims to help decision-makers:
 
 ### * Improve inventory planning.
-###* Reduce delivery delays.
+### * Reduce delivery delays.
 ### * Identify high-performing products.
 ### * Enhance logistics efficiency.
 ### * Support data-driven operational decisions.
@@ -127,16 +127,16 @@
 
 ### * [x] Project Topic Selection
 ### * [x] Business Problem Definition
-* [x] Research Questions
-* [x] Target Audience Identification
-* [ ] Data Collection
-* [ ] Data Cleaning
-* [ ] SQL Database Design
-* [ ] Exploratory Data Analysis (EDA)
-* [ ] Tableau Dashboard Development
-* [ ] Business Recommendations
-* [ ] Final Report
-* [ ] Presentation
+### * [x] Research Questions
+### * [x] Target Audience Identification
+### * [ ] Data Collection
+### * [ ] Data Cleaning
+### * [ ] SQL Database Design
+### * [ ] Exploratory Data Analysis (EDA)
+### * [ ] Tableau Dashboard Development
+### * [ ] Business Recommendations
+### * [ ] Final Report
+### * [ ] Presentation
 
 ---
 
