@@ -1,62 +1,67 @@
-# Gen-Data-Capstone-Project
 # 📦 Optimizing Supply Chain and Inventory Performance Using Data Analytics
 
 ## 📖 Project Overview
 
-### Efficient supply chain and inventory management are critical to the success of modern businesses. Delays in deliveries, poor inventory planning, and inefficient supplier performance can increase operational costs and reduce customer satisfaction.
+### Efficient supply chain and inventory management are essential for ensuring smooth business operations, minimizing operational costs, and meeting customer demand. Organizations often face challenges such as delivery delays, inefficient inventory management, and inconsistent logistics performance, all of which can negatively impact profitability and customer satisfaction.
 
-### This project applies data analytics techniques to evaluate supply chain operations, identify performance bottlenecks, and provide data-driven recommendations that improve inventory management, logistics efficiency, and overall supply chain performance.
-
-### The analysis is based on a publicly available supply chain dataset and demonstrates how business intelligence tools can support strategic decision-making in distribution and logistics operations.
+### This project applies data analytics techniques to evaluate supply chain operations using a publicly available supply chain dataset. The analysis focuses on identifying operational bottlenecks, measuring key performance indicators (KPIs), and providing actionable recommendations to improve inventory management, logistics efficiency, and overall supply chain performance.
 
 ---
 
 # 🎯 Project Objectives
 
-### The project aims to:
+## The objectives of this project are to:
 
-### * Analyze supply chain performance using historical operational data.
-### * Evaluate inventory management efficiency.
-### * Assess supplier and logistics performance.
-### * Identify trends affecting sales, deliveries, and inventory.
-### * Develop key performance indicators (KPIs) for monitoring operations.
-### * Build interactive dashboards that support business decision-making.
-### * Provide actionable recommendations for improving supply chain performance.
+### * Evaluate overall supply chain performance using operational data.
+### * Analyze inventory and product performance to identify high- and low-performing products.
+### * Assess logistics and delivery efficiency using key operational metrics.
+### * Develop interactive dashboards that support data-driven decision-making.
+### * Provide business recommendations for improving supply chain and inventory performance.
 
 ---
 
 # ❓ Research Question
 
-**How can data analytics be used to optimize supply chain and inventory performance in a distribution company?**
+### Main Research Question
+
+###  **How can data analytics be used to optimize supply chain and inventory performance in a distribution company?**
 
 ### Specific Research Questions
 
-### * Which products contribute the most to sales and profitability?
-### * Which products experience slow inventory movement?
-### * Which suppliers demonstrate the best and worst delivery performance?
-### * Which regions experience the highest delivery delays?
-### * Which shipping methods are the most efficient?
-### * What factors influence overall supply chain performance?
-### * What recommendations can improve inventory management and logistics efficiency?
+### 1. How effectively is the company's overall supply chain performing?
+### 2. Which products and inventory categories contribute most to business performance?
+### 3. How efficient are the company's logistics and delivery operations?
+### 4. What data-driven recommendations can improve supply chain and inventory performance?
+
+---
+
+# 👥 Target Audience
+
+## This project is designed for professionals responsible for managing and improving supply chain operations, including:
+
+### * Supply Chain Managers
+### * Inventory Managers
+### * Logistics Managers
+
+### The insights and dashboards developed in this project are intended to support operational decision-making by helping these stakeholders monitor performance, identify inefficiencies, and implement data-driven improvements.
 
 ---
 
 # 📂 Dataset
 
-## **Dataset:** DataCo Smart Supply Chain Dataset (Public Dataset)
+### **Dataset:** DataCo SMART Supply Chain Dataset (Public Dataset)
 
-### The dataset contains information on:
+#### The dataset contains operational information related to:
 
 ### * Orders
 ### * Customers
 ### * Products
-### * Categories
-### * Suppliers
+###* Categories
+### * Sales
+### * Profit
 ### * Shipping
 ### * Delivery Status
 ### * Geographic Locations
-### * Sales
-### * Profit
 
 ---
 
@@ -64,68 +69,75 @@
 
 ### * **Microsoft Excel** – Data cleaning and preprocessing
 ### * **SQL (MySQL)** – Data storage, querying, joins, and KPI calculations
-### * **Python** – Exploratory Data Analysis (EDA) and visualization
-### * **Tableau** – Interactive dashboards and business intelligence
+### * **Python** – Exploratory Data Analysis (EDA)
+### * **Tableau** – Interactive dashboards and data visualization
 ### * **Git & GitHub** – Version control and project documentation
 
 ---
 
 # 📊 Key Performance Indicators (KPIs)
 
-## The project analyzes several operational KPIs, including:
+## The project evaluates supply chain performance using the following KPIs:
 
 ### * Total Revenue
 ### * Total Orders
 ### * Total Profit
 ### * Profit Margin
-### * Inventory Turnover
 ### * Average Delivery Time
 ### * On-Time Delivery Rate
-### * Order Fulfillment Rate
-### * Supplier Performance Score
+### * Late Delivery Rate
+### * Quantity Sold
+### * Sales by Product Category
 
 ---
 
-# 📈 Dashboard Features
+# 📈 Dashboard Overview
 
-## The Tableau dashboard includes:
+### 1. Executive Performance Dashboard
 
-### * Executive Dashboard
-### * Sales Performance Dashboard
-### * Inventory Performance Dashboard
-### * Supplier Performance Dashboard
-### * Logistics & Delivery Dashboard
-### * Geographic Performance Dashboard
+#### Provides an overview of business performance using KPIs such as revenue, profit, orders, and delivery performance.
 
+### 2. Inventory & Product Performance Dashboard
 
----
+#### Analyzes product sales, inventory performance, product categories, and profitability to support inventory management decisions.
 
-# 🔍 Expected Insights
+### 3. Logistics & Delivery Performance Dashboard
 
-## The analysis seeks to answer questions such as:
-
-### * Which products generate the highest revenue and profit?
-### * Which suppliers consistently meet delivery expectations?
-### * Which shipping methods perform best?
-### * Which regions experience delivery delays?
-### * Which products have low inventory turnover?
-### * What operational improvements can enhance supply chain performance?
+#### Evaluates shipping efficiency, delivery times, late deliveries, and regional logistics performance.
 
 ---
 
-# 💡 Business Recommendations
+# 💡 Expected Business Outcomes
 
-## Based on the analysis, the project will provide recommendations to:
+### The analysis aims to help decision-makers:
 
 ### * Improve inventory planning.
-### * Reduce delivery delays.
-### * Enhance supplier performance.
-### * Optimize logistics operations.
-### * Support data-driven decision-making.
-### * Increase operational efficiency.
+###* Reduce delivery delays.
+### * Identify high-performing products.
+### * Enhance logistics efficiency.
+### * Support data-driven operational decisions.
 
 ---
 
+# 🚧 Project Status
 
+## **Current Stage:** Project Planning & Business Understanding
+
+### Progress Checklist
+
+### * [x] Project Topic Selection
+### * [x] Business Problem Definition
+* [x] Research Questions
+* [x] Target Audience Identification
+* [ ] Data Collection
+* [ ] Data Cleaning
+* [ ] SQL Database Design
+* [ ] Exploratory Data Analysis (EDA)
+* [ ] Tableau Dashboard Development
+* [ ] Business Recommendations
+* [ ] Final Report
+* [ ] Presentation
+
+---
 
 
